@@ -1,0 +1,3 @@
+Sorted list by ID Wise:-
+R121887	Ravi	9550273472	ravi@gmail.com	1996-19-12	20	ECE	B16	9.2
+R121807	Rajesh	9550273472	ravi@gmail.com	1996-19-12	20	ECE	B16	9.2

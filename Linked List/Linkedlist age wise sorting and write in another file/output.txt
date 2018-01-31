@@ -1,0 +1,7 @@
+Sorted List:-
+Srinu	19	R121882	
+Ravi	22	R121887	
+Praveen	24	R121885	
+Ganesh	25	r121789	
+sekhar	30	R121886	
+Suresh	45	r121765	
